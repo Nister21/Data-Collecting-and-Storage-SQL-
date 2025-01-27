@@ -23,7 +23,7 @@ In this project, I designed and managed a relational database using SQL. I demon
 ## Code Example  
 Below is a sample of the SQL code used in this project:  
 
-![SQL Code Example](images/sql-code-sample.jpeg)
+![SQL Code Example](images/sql-code-sample.jpg)
 
 ---
 
